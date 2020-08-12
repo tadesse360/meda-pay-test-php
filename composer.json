@@ -1,5 +1,5 @@
 {
-    "name": "360ground/meda-pay",
+    "name": "360ground/meda-pay-test-php",
     "description": "MedaPay gateway PHP SDK",
     "type": "library",
     "license": "MIT",
