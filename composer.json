@@ -13,6 +13,6 @@
         "ext-json": "*"
     },
     "autoload": {
-        "psr-0": {"AppName": "src/"}
+        "psr-4": {"MedaPay": "src/"}
     }
 }
