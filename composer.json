@@ -1,0 +1,15 @@
+{
+    "name": "360ground/meda-pay",
+    "description": "MedaPay gateway PHP SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tadesse Angaw",
+            "email": "tadesse@360ground.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*"
+    }
+}
